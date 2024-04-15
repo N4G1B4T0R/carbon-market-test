@@ -3,6 +3,7 @@
 Key Features:
 - 👑 Feature sliced design [link](https://feature-sliced.design/)
 - 📈 GraphQL, Partial pre-rendering
+- 🚀 Next.js
 - ✅ Using MUI
 
 ### Prerequisites
